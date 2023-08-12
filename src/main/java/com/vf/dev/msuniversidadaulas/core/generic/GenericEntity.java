@@ -1,4 +1,4 @@
-package com.vf.dev.msuniversidadaulas.model.entity;
+package com.vf.dev.msuniversidadaulas.core.generic;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
